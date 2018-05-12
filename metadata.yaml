@@ -1,10 +1,16 @@
 _repo: Escape-from-the-Confederacy_49976
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 49976-h/images/cover.jpg
 creator:
   author:
     agent_name: Hasson, Benjamin F.
     gutenberg_agent_id: '45637'
     url: http://www.gutenberg.org/2009/agents/45637
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/49976#Escape-from-the-Confederacy
 gutenberg_issued: '2015-09-15'
 gutenberg_type: Text
 identifiers:
